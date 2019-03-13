@@ -16,4 +16,5 @@ dlls
 .idea
 .history
 
-dist/
+# you will not be able to npm publish if next line will be uncommented
+# dist/
