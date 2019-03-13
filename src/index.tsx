@@ -7,12 +7,9 @@ class Main extends React.PureComponent <any, any> {
         return (
             <React.Suspense fallback={<div>Loading</div>}>
 
-                <h1>Главная</h1>
-
-                <div>
-                    
-                </div>
-                <div>Я загрузился</div>
+                <h1>Етить кудрить! </h1>
+                <div>Я загрузился!</div>
+                <div>Вот это да...</div>
                 <button onClick={() => this.props.openApp('exampleapp')}>открыть другое приложение</button>
 
             </React.Suspense>
