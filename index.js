@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./dist/defaultapp.js');
+module.exports = require('./dist/transportapp.js');

@@ -1,6 +1,6 @@
 {
-  "name": "start-manager",
-  "version": "1.0.0",
+  "name": "transportapp",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://innoavvlasov@bitbucket.org/innoavvlasov/start-manager.git"
+    "url": "git@github.com:js-advanced/mediapult-transport.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/innoavvlasov/start-manager#readme",
+  "homepage": "https://github.com/js-advanced/mediapult-transport",
   "dependencies": {
     "react": "^16.8.1",
     "react-dom": "^16.8.1",

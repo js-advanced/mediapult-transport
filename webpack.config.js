@@ -7,7 +7,7 @@ const outputDirectory = 'dist';
 
 module.exports = {
   entry: {
-   defaultapp: './src/index.tsx',
+   transportapp: './src/index.tsx',
   },
   output: {
     filename: '[name].js',
